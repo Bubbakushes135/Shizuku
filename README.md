@@ -42,7 +42,7 @@ https://github.com/RikkaApps/Shizuku-API
 > Existing applications still works, of course.
 
 https://github.com/RikkaApps/Shizuku-API#migration-guide-for-existing-applications-use-shizuku-pre-v11
-
+wip
 ### Attention
 
 1. ADB permissions are limited
